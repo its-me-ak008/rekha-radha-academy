@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rrtailoringacademy.netlify.app/sitemap.xml
+Sitemap: https://rracademy.netlify.app/sitemap.xml
